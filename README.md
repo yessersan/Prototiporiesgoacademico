@@ -78,16 +78,16 @@ El dataset consta de **1,500 registros** y **12 variables** ajustadas a las regl
 ## 📸 Resultados y Visualizaciones del Notebook (Google Colab)
 
 ### 1. Distribución de Clases de Riesgo Académico ($t+1$)
-![Distribución de Clases de Riesgo Académico](img/distribucion_clases_riesgo.png)
+![Distribución de Clases de Riesgo Académico](distribucion_clases_riesgo.png)
 
 ### 2. Comparativa de Desempeño de Algoritmos
-![Tabla Comparativa de Modelos](img/tabla_comparativa_modelos.png)
+![Tabla Comparativa de Modelos](tabla_comparativa_modelos.png)
 
 ### 3. Matriz de Confusión – Bosque Aleatorio (Random Forest)
-![Matriz de Confusión Random Forest](img/matriz_confusion_rf.png)
+![Matriz de Confusión Random Forest](matriz_confusion_rf.png)
 
 ### 4. Top 10 Variables Predictoras de Riesgo Académico
-![Importancia de Variables](img/importancia_variables.png)
+![Importancia de Variables](importancia_variables.png)
 
 ---
 
